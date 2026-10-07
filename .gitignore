@@ -29,7 +29,10 @@ dashboard/dist/
 *.sln
 *.sw?
 
-# Word backup files
+# Word documents
+*.doc
+*.docx
+~$*.doc
 ~$*.docx
 
 # Mac OS
